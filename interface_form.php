@@ -6,5 +6,4 @@ interface FormGeneratorInterface {
     public function handleSubmission(): bool;
     public function getErrors(): array;
 }
-
 ?>
